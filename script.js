@@ -6,4 +6,3 @@ const displayTextFunction = () => {
     displayText.innerHTML = "Hope you have a great day , mate"
 
 }
-displayTextFunction()
